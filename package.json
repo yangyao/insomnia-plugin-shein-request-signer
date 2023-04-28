@@ -1,0 +1,16 @@
+{
+  "name": "insomnia-plugin-shein-request-signer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "insomnia": {
+    "name": "shein-request-signer",
+    "description": "Add Shein headers with a HMAC-SHA256 encoded signature"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
