@@ -4,6 +4,8 @@
 
 Applications->Preferences->Plugins
 
+NPM package name: "insomnia-plugin-shein-request-signer"
+
 ### 2. Setup the environment variable.
 
 ```
