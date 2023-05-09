@@ -17,4 +17,6 @@ NPM package name: "insomnia-plugin-shein-request-signer"
 ```
 
 ### 3. Enable request signature.
-For the requests that require the signature, you'll need to include the header x-shein-Headers with the value true
+For the requests that require the signature, you'll need to include the header `x-shein-headers` with the value true.
+
+![image](https://user-images.githubusercontent.com/5866775/236988711-a043c858-21e2-4876-a41b-879354d0f67c.png)
